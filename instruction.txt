@@ -1,0 +1,11 @@
+# To activate this environment, use:
+# $ source activate SAS_pandas
+#
+# To deactivate this environment, use:
+# $ source deactivate
+#
+MBP-di-Vittorio:~ Vittorio$ source activate SAS_pandas
+discarding /Users/Vittorio/anaconda/bin from PATH
+prepending /Users/Vittorio/anaconda/envs/SAS_pandas/bin to PATH
+
+
